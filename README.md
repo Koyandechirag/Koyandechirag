@@ -22,7 +22,7 @@ Project Research Assistant at **IIT Bombay (FOSSEE, Aerospace Engineering Dept)*
 ### **Languages & Frameworks**
 
 * **Python**, **Django**, **VB.NET**, **PyQt5**, **Java**, **ASP.NET**
-* **JavaScript**, **React**, **HTML**, **CSS**, **BootStrap**, 
+* **JavaScript**, **React**, **HTML**, **CSS**, **BootStrap**
 * **SQL**
 
 ### **Simulation & Engineering Tools**
