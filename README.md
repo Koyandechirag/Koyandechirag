@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm **Chirag Koyande** (He/Him)
 
-<!--
-**Koyandechirag/Koyandechirag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Project Research Assistant – FOSSEE, IIT Bombay (Aerospace Engineering Dept)**
 
-Here are some ideas to get you started:
+### **Full Stack Developer | Python • React • Django • VB.NET • PyQt5 • DWSIM**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🔬 About Me
+
+Project Research Assistant at **IIT Bombay (FOSSEE, Aerospace Engineering Dept)** working on research-driven engineering tools, scientific simulations, UI/UX for complex systems, and automation for academic + industrial applications.
+
+* 🔭 Currently working on: Engineering simulation tools, parameter visualizers, and scientific software modules
+* 💻 Full-stack development for research & industry use-cases
+* 🌱 Learning: Advanced React patterns, Web performance, Python scientific stack
+* 🤝 Open to collaborate on: Scientific computing, Engineering tools, Full-stack apps
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages & Frameworks**
+
+* **Python**, **Django**, **VB.NET**, **PyQt5**
+* **JavaScript**, **React**, **HTML**, **CSS**
+
+### **Simulation & Engineering Tools**
+
+* **DWSIM**, Scientific Scripting, Data Visualization
+
+### **Tools & Platforms**
+
+* Git, GitHub, VS Code, Postman, Linux
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ **Chemical Equipment Parameter Visualizer**
+
+Engineering-focused tool to visualize and compute parameters for chemical equipment.
+
+### ⭐ **Research Simulation Tools @ IIT Bombay**
+
+UI + backend for scientific and aerospace simulations.
+
+### ⭐ **Interactive CSV Analyzer**
+
+Web UI for research data analysis and visualization.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/apikoyandechirag\&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/koyandechirag\&layout=compact)
+
+
+## 📫 Connect With Me
+
+* **LinkedIn:** *([Add your link here](https://www.linkedin.com/in/chirag-koyande-1930b1285/))*
+* **Email:** *(koyandechirag@gmail.com)*
+
+---
+
+### 🔧 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/koyandechirag)
