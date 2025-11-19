@@ -21,8 +21,9 @@ Project Research Assistant at **IIT Bombay (FOSSEE, Aerospace Engineering Dept)*
 
 ### **Languages & Frameworks**
 
-* **Python**, **Django**, **VB.NET**, **PyQt5**
-* **JavaScript**, **React**, **HTML**, **CSS**
+* **Python**, **Django**, **VB.NET**, **PyQt5**, **Java**, **ASP.NET**
+* **JavaScript**, **React**, **HTML**, **CSS**, **BootStrap**, 
+* **SQL**
 
 ### **Simulation & Engineering Tools**
 
@@ -35,6 +36,14 @@ Project Research Assistant at **IIT Bombay (FOSSEE, Aerospace Engineering Dept)*
 ---
 
 ## 🚀 Featured Projects
+
+### ⭐ **Chemical - PFD Tool**
+
+A web-based tool to design and visualize Process Flow Diagrams (PFD) for chemical engineering systems with interactive components and parameter mapping.
+
+### ⭐ **Chemical Simulator GUI**
+
+A desktop GUI application for running chemical simulations, parameter calculations, and equipment analysis using an intuitive engineering-friendly interface.
 
 ### ⭐ **Chemical Equipment Parameter Visualizer**
 
