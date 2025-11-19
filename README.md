@@ -50,12 +50,6 @@ Web UI for research data analysis and visualization.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/apikoyandechirag\&show_icons=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/koyandechirag\&layout=compact)
-
-
 ## 📫 Connect With Me
 
 * **LinkedIn:** *([Add your link here](https://www.linkedin.com/in/chirag-koyande-1930b1285/))*
