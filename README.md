@@ -59,4 +59,4 @@ Web UI for research data analysis and visualization.
 
 ### 🔧 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/koyandechirag)
+![Profile Views](https:/koyandechirag)
