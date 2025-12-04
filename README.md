@@ -61,6 +61,6 @@ Web UI for research data analysis and visualization.
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** *([Add your link here](https://www.linkedin.com/in/chirag-koyande-1930b1285/))*
+* **LinkedIn:** *(https://www.linkedin.com/in/chirag-koyande-1930b1285/)*
 * **Email:** *(koyandechirag@gmail.com)*
 
