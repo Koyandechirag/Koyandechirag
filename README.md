@@ -1,66 +1,95 @@
-# 👋 Hi, I'm **Chirag Koyande** (He/Him)
+# 👋 Hi, I'm Chirag Koyande
 
-### **Project Research Assistant – FOSSEE, IIT Bombay (Aerospace Engineering Dept)**
+🚀 Full Stack Developer @ IIT Bombay (FOSSEE)
+🧠 Building Engineering Simulation Tools & Scientific Software
 
-### **Full Stack Developer | Python • React • Django • VB.NET • PyQt5 • DWSIM**
+I specialize in developing high-performance applications for scientific computing, process simulation, and engineering systems — combining modern frontend UX with powerful backend computation.
 
 ---
 
 ## 🧑‍🔬 About Me
 
-Project Research Assistant at **IIT Bombay (FOSSEE, Aerospace Engineering Dept)** working on research-driven engineering tools, scientific simulations, UI/UX for complex systems, and automation for academic + industrial applications.
+I am a Project Research Assistant at IIT Bombay (FOSSEE), working on real-world engineering software and simulation tools used in academic and industrial environments.
 
-* 🔭 Currently working on: Engineering simulation tools, parameter visualizers, and scientific software modules
-* 💻 Full-stack development for research & industry use-cases
-* 🌱 Learning: Advanced React patterns, Web performance, Python scientific stack
-* 🤝 Open to collaborate on: Scientific computing, Engineering tools, Full-stack apps
+💡 My work focuses on:
 
----
+* Building interactive engineering applications (Web + Desktop)
+* Developing scientific simulation tools and parameter visualizers
+* Designing scalable full-stack systems for complex computational workflows
 
-## 🛠 Tech Stack
-
-### **Languages & Frameworks**
-
-* **Python**, **Django**, **VB.NET**, **PyQt5**, **Java**, **ASP.NET**, **C++**, **CSharp**
-* **JavaScript**, **React**, **HTML**, **CSS**, **BootStrap**, **JQuery**
-* **SQL**
-
-### **Simulation & Engineering Tools**
-
-* **DWSIM**, Scientific Scripting, Data Visualization
-
-### **Tools & Platforms**
-
-* Git, GitHub, VS Code, Postman, Linux
+⚡ I enjoy solving real-world engineering problems using software and creating tools that bridge engineering and technology.
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⭐ **Chemical - PFD Tool**
+### ⭐ Chemical - PFD Tool
 
-A web-based tool to design and visualize Process Flow Diagrams (PFD) for chemical engineering systems with interactive components and parameter mapping.
+✔ Developed a cross-platform tool (Web + Desktop) for designing Process Flow Diagrams
+✔ Implemented dynamic component mapping and real-time parameter visualization
+✔ Enabled project save/load compatibility across web and desktop platforms
+✔ Focused on performance optimization and UI responsiveness
+🛠 Tech: React, Python, PyQt5
 
-### ⭐ **Chemical Simulator GUI**
+---
 
-A desktop GUI application for running chemical simulations, parameter calculations, and equipment analysis using an intuitive engineering-friendly interface.
+### ⭐ Chemical Simulator GUI
 
-### ⭐ **Chemical Equipment Parameter Visualizer**
+✔ Built a desktop-based GUI application for running chemical simulations
+✔ Integrated parameter calculations and equipment-level analysis
+✔ Designed an intuitive interface for engineering workflows
+🛠 Tech: PyQt5, Python
 
-Engineering-focused tool to visualize and compute parameters for chemical equipment.
+---
 
-### ⭐ **Research Simulation Tools @ IIT Bombay**
+### ⭐ Chemical Equipment Parameter Visualizer
 
-UI + backend for scientific and aerospace simulations.
+✔ Created a tool to compute and visualize engineering parameters
+✔ Simplified complex calculations into interactive visual outputs
+🛠 Tech: Python, Data Visualization
 
-### ⭐ **Interactive CSV Analyzer**
+---
 
-Web UI for research data analysis and visualization.
+### ⭐ Research Simulation Tools @ IIT Bombay
+
+✔ Contributed to UI and backend development for scientific and aerospace simulations
+✔ Worked on real-world research problems and engineering use-cases
+🛠 Tech: Python, Simulation Tools
+
+---
+
+### ⭐ Interactive CSV Analyzer
+
+✔ Developed a web-based tool for analyzing and visualizing research datasets
+✔ Enabled dynamic data filtering and graphical insights
+🛠 Tech: React, Django
+
+---
+
+## 🛠 Tech Stack
+
+💻 Languages: Python, JavaScript, C#, VB.NET, C++
+⚙ Backend: Django, ASP.NET
+🎨 Frontend: React, HTML, CSS, Bootstrap
+🖥 Desktop: PyQt5
+📊 Simulation & Tools: DWSIM, Scientific Computing, Data Visualization
+🗄 Database: SQL
+🔧 Tools & Platforms: Git, GitHub, Linux, Postman
+
+---
+
+## 💼 Why Me?
+
+✔ Experience working on real engineering systems at IIT Bombay
+✔ Strong combination of frontend + backend + scientific computing
+✔ Ability to build complete applications from UI to computation
+✔ Focus on performance, scalability, and real-world usability
 
 ---
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** *(https://www.linkedin.com/in/chirag-koyande-1930b1285/)*
-* **Email:** *(koyandechirag@gmail.com)*
+🔗 LinkedIn: https://www.linkedin.com/in/chirag-koyande-1930b1285/
+📧 Email: [koyandechirag@gmail.com](mailto:koyandechirag@gmail.com)
 
+---
